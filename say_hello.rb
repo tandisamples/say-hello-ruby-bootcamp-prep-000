@@ -1,2 +1,3 @@
-def say_hello("Tandi")
+def say_hello(name)
+  
   
