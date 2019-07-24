@@ -2,7 +2,8 @@ def say_hello(name)
  puts "Hello, #{name}!"
 end
 
-say_hello("Tandi")
+say_hello
+
 
 
 
