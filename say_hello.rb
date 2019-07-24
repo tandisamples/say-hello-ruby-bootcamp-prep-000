@@ -1,3 +1,3 @@
 def say_hello(name)
-  "Hello #{name]"
+  "Hello #{name}"
   
